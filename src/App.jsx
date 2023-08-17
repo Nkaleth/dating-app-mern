@@ -1,10 +1,11 @@
-import './App.css'
+import './styles/app.css'
+import Header from './components/Header'
 
 function App() {
 
   return (
     <div className='app'>
-      <h1>Dating App MERN</h1>
+      <Header />
     </div>
   )
 }
