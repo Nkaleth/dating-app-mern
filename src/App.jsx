@@ -3,9 +3,9 @@ import './App.css'
 function App() {
 
   return (
-    <>
-      <h1>HELLO VITE!</h1>
-    </>
+    <div className='app'>
+      <h1>Dating App MERN</h1>
+    </div>
   )
 }
 
