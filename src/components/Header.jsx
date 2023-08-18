@@ -1,4 +1,4 @@
-import '../styles/Header.css';
+import '../styles/Header.scss';
 import { Person, Forum } from '@mui/icons-material';
 import { IconButton } from '@mui/material';
 import logo192 from '../assets/images/logo192.png';

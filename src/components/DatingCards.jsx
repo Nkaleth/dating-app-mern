@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import TinderCard from 'react-tinder-card';
-import '../styles/DatingCards.css';
+import '../styles/DatingCards.scss';
 
 function DatingCards() {
   const [people, setPeople] = useState([
